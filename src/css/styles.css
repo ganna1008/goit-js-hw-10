@@ -18,3 +18,52 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-card{
+  display: flex;
+  gap: 15px;
+}
+
+.country-flag{
+  width: 50px;
+}
+
+.country-list{
+  padding-left: 0;
+}
+
+.countries-name{
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.country-info{}
+
+.country-info-name{
+    display: flex;
+  gap: 15px;
+}
+
+.country-name{
+  font-size: 40px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.country-list-name{  
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.country-list-info{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.cuntry-poperty-list{
+padding-left: 0;
+margin: 0;
+}
